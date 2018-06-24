@@ -13,5 +13,19 @@ body {
 h1 {
 color : ##ff3300;
 }
+h4 {
+	color: #339966;
+	word-spacing: 2px;
+	letter-spacing: 2px;
+	text-shadow: 2px 2px 8px #ff471a;
+}
+
+p {
+	font-family: 'Pacifico', cursive;
+	color: #0073e6;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+}
+
 
 
