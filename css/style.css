@@ -3,15 +3,18 @@
 }
 body {
 	background-color: #dfe6e9;
+	font-family: sans-serif;
 }
 .container {
 	width: 100%;
 	margin: 0 auto;
+	padding: 10px 10px;
 	max-width: 900px;
 	text-align: center;
 }
 h1 {
-color : ##ff3300;
+	color : ##ff3300;
+	letter-spacing: 3px;
 }
 h4 {
 	color: #339966;
